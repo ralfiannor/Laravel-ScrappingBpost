@@ -1,8 +1,8 @@
-Scrapping BPost Dengan Framework Laravel.
+<h5>Scrapping BPost Dengan Framework Laravel</h5>
 
 Versi awal ini cuman scrapping halaman berita untuk wilayah kalsel. Mari kita sama-sama belajar :)
 
-Disini saya menggunakan dependency Goutte.
+Disini saya menggunakan dependency Goutte.<br>
 Dokumentasinya bisa dilihat https://github.com/FriendsOfPHP/Goutte
 
 Referensi : <br>
